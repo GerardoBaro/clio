@@ -1,2 +1,2 @@
-# personal-assistant
+# Clio
 A personal assistant MCP server
